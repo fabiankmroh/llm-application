@@ -10,3 +10,12 @@ Currently serving my mandatory military service as a Korean man, I have brought 
 
 ### Why LLMs? 
 I do not want to respond with a banal consensus of "it's changing the world". What I am more interested in is its interaction with the element of **text**, always used to express the genetic information/material of all organisms in existence. While I do not have a solid knowledge in biology (something that I plan to obtain in the future when I return to college after finishing my service), I thought it would be good to prepare ahead and study LLMs as it would help me detect opportunities to apply AI into medicine development, an industry I aim to participate in. 
+
+## 2025/04/27: Terms
+<ul>
+  <li>**alignment:** LLM Generated Response = Users' Intentions</li>
+  <li>**Instruction Data:** Dataset w/ Users' Requests & Appropriate Responses</li>
+  <li>**Transformer:** *Self-Attention* - Calculate Relevance of Each Word in Sentence --> Adjust Each Word's Representation</li>
+  <li>**OOV:** Out of Vocabulary</li>
+  <li>**Embedding**: Data Meaning --> Numbers</li>
+</ul>
